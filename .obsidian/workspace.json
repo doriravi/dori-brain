@@ -11,10 +11,14 @@
             "id": "2624065f265e11c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "sample 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sample 2"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "sample 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,11 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9aed90021ebb160a",
+  "active": "2624065f265e11c2",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "sample 2.md",
     "guitar/docs/feature-roadmap.canvas",
     "guitar/docs/feature-roadmap.canvas.tmp.11536.c4a9affca794",
-    "sample 2.md",
     "guitar/README  ch1.md",
     "guitar/tab-service/venv/Lib/site-packages/tensorflow/include/external/com_github_grpc_grpc/src/core/ext/upb-generated/src/proto/grpc/lb/v1/load_balancer.upb.h",
     "guitar/tab-service/venv/Lib/site-packages/tensorflow/include/external/com_github_grpc_grpc/src/core/ext/upb-generated/src/proto/grpc/health/v1/health.upb.h",
