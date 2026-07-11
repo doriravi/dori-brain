@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "317f01b00fde7bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2666f270ad15bcba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2624065f265e11c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe7db964a82cd565",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d8afa52696c0c52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac9e3cc9f6de68a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2f896bfd43b6963",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "63c1a1ffa4da4e4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7887230e4ee4eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ff5633e7ce20685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a53a6c9e0766e9e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "44b168adda7ce018",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "88f4e8b87b55e0c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99d9c6862a870205",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "948d546b24854677",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2624065f265e11c2",
+  "lastOpenFiles": [
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/single-default/build/entry.js",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/single-default/build",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/single-default/entry.js",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/single-default/a.js",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/single-default",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/simple-bundle/build/runner.html",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/simple-bundle/build/entry.js",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/simple-bundle/build",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/simple-bundle/entry.js",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/simple-bundle/a.js",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/tests/fixtures/simple-bundle",
+    "guitar/client/node_modules/@trickfilm400/rollup-plugin-off-main-thread/README.md",
+    "guitar/client/node_modules/@rollup/rollup-win32-x64-msvc/README.md",
+    "guitar/client/node_modules/@rollup/rollup-win32-x64-gnu/README.md",
+    "guitar/client/node_modules/@rollup/pluginutils/node_modules/picomatch/README.md",
+    "guitar/client/node_modules/@rollup/pluginutils/README.md",
+    "guitar/client/node_modules/@rollup/plugin-terser/README.md",
+    "guitar/client/node_modules/@rollup/plugin-replace/README.md",
+    "guitar/client/node_modules/@rollup/plugin-node-resolve/README.md",
+    "guitar/client/node_modules/@rollup/plugin-babel/README.md",
+    "guitar/client/node_modules/@react-three/postprocessing/node_modules/maath/CHANGELOG.md",
+    "guitar/client/node_modules/@react-three/postprocessing/README.md",
+    "guitar/client/node_modules/@react-three/fiber/readme.md",
+    "guitar/client/node_modules/@react-three/fiber/CHANGELOG.md",
+    "guitar/client/node_modules/@react-three/drei/README.md",
+    "guitar/client/node_modules/@playwright/test/README.md",
+    "guitar/client/node_modules/@nodelib/fs.walk/README.md",
+    "guitar/client/node_modules/@nodelib/fs.stat/README.md",
+    "guitar/client/node_modules/@nodelib/fs.scandir/README.md",
+    "guitar/client/node_modules/@monogrid/gainmap-js/README.md",
+    "guitar/client/node_modules/@monogrid/gainmap-js/CONTRIBUTING.md",
+    "guitar/client/node_modules/@monogrid/gainmap-js/CODE_OF_CONDUCT.md",
+    "guitar/client/node_modules/@monogrid/gainmap-js/CHANGELOG.md",
+    "guitar/client/node_modules/@mediapipe/tasks-vision/README.md",
+    "guitar/client/node_modules/@mediapipe/hands/README.md",
+    "guitar/client/node_modules/@mediapipe/camera_utils/README.md",
+    "guitar/client/dist/pwa-64x64.png",
+    "guitar/client/dist/pwa-512x512.png",
+    "guitar/client/dist/pwa-192x192.png",
+    "guitar/client/dist/maskable-512x512.png",
+    "guitar/client/dist/hand-span-diagram.jpg",
+    "guitar/client/dist/favicon.png",
+    "guitar/client/dist/apple-touch-icon.png"
+  ]
+}
