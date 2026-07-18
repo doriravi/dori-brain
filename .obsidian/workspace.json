@@ -11,17 +11,14 @@
             "id": "2624065f265e11c2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "guitar/docs/feature-roadmap.canvas",
-                "viewState": {
-                  "x": 521.7610234667843,
-                  "y": 518.4492180709381,
-                  "zoom": -0.35049570720624107
-                }
+                "file": "guitar/docs/feature-ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "feature-roadmap"
+              "icon": "lucide-file",
+              "title": "feature-ideas"
             }
           },
           {
@@ -200,8 +197,8 @@
   },
   "active": "2624065f265e11c2",
   "lastOpenFiles": [
-    "guitar/docs/feature-ideas.md",
     "guitar/docs/feature-roadmap.canvas",
+    "guitar/docs/feature-ideas.md",
     "guitar/docs/app-tour.mp4",
     "sample 2.md",
     "Untitled.canvas",
